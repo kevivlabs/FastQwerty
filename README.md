@@ -1,5 +1,6 @@
 # FastQwerty
-!! WIP
+!! WIP !! 
+
 Its the same as a standard US Qwerty but pressing CapsLock gives you easy access to frequently used Linux and Programming symbols.
 
 This layout is my combination of ideas inspired from 
@@ -32,7 +33,7 @@ Press and Hold the CapsLock key
 
 1) Contrary to the popular stories, I can't live only in the terminal. I need to use Slack, Confluence, Jira , Email Client etc. which defeats the point of only having a programmer focused layout.Hence, the easy access to End,Delete and Backspace.
 
-2) I also optimised the layout for my Linux terminal/Vim usage. Hence, the easy access to '\' , '-' , ':' and ESC keys. 
+2) I also optimised the layout for my Linux terminal/Vim usage. Hence, the easy access to  '/\' , '-' , ':' and ESC keys. 
 3) I try to make the key position easy to remember, d for delete, m for modulo etc. 
 
 ## Misc: 
