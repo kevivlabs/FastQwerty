@@ -1,4 +1,5 @@
 # FastQwerty
+!! WIP
 Its the same as a standard US Qwerty but pressing CapsLock gives you easy access to frequently used Linux and Programming symbols.
 
 This layout is my combination of ideas inspired from 
